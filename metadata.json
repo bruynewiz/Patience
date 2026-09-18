@@ -1,0 +1,6 @@
+{
+  "name": "PatienceAHB - African Hair Braiding Salon",
+  "description": "Premium African hair braiding salon in Greensboro, NC specializing in knotless braids, box braids, stitch braids, cornrows, Fulani braids, and protective styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
